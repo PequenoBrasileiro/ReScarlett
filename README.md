@@ -1,4 +1,4 @@
-# ReScarlett
+# ReScarlett.
 
 ### Bridging Xbox Scarlett and Windows.
 
